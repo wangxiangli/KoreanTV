@@ -1,0 +1,1 @@
+include 'text', ':library', ':appGUAGUA', ':app', ':text'
